@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+screenshots/
+
+# Browser profiles
+profiles/
+user-data-dir/
+
+# Secrets
+.env
+secrets.json
+config.local.js
+
+# Test outputs
+test-results/
+coverage/
+
+# Build
+dist/
+build/
